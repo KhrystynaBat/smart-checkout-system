@@ -62,7 +62,8 @@ smart-checkout-system/
 │   └── rpc_prices_new.csv
 │
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── .gitignore
 ```
 
 ---
