@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+runs/
+.idea/
+.ipynb_checkpoints/
+
+venv/
+.env/
+
+*.pt
+
+data/train/
+data/val/
